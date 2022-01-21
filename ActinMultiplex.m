@@ -5,7 +5,7 @@ function [varargout] = ActinMultiplex(AMX,AMS,varargin)
 % https://en.wikipedia.org/wiki/Gillespie_algorithm
 % https://en.wikipedia.org/wiki/Dynamic_Monte_Carlo_method
 % https://en.wikipedia.org/wiki/Kinetic_Monte_Carlo
-
+% 
 % time is measured in Monte Carlo steps (MCS)
 % http://www.roentzsch.org/SurfDiff/index.html
 %==========================================================================
